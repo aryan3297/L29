@@ -6,4 +6,6 @@ printf("sub: %d",a-b);
 
 printf("mul:%d",a*b);
 
+printf("div:%d",a/b);
+
 }
