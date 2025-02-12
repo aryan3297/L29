@@ -1,5 +1,9 @@
 AUB UNIVERSITY CSE DEPT
-BTECH AIML
+
+
 amity'
 cse
 robotics
+
+void main
+{}
