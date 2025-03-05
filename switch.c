@@ -6,4 +6,8 @@
 	printf(Bye);
 	break;
 
+     case 3:
+	printf("AIB");
+       break;
+
 
