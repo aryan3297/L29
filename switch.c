@@ -15,4 +15,8 @@
 
 	  break;
 
+    case 5:
+	  printf("end");
+	  bfreak;
+
 
