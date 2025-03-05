@@ -19,4 +19,8 @@
 	  printf("end");
 	  bfreak;
 
+    case 6:
+	  prinht(0
+			  break;
+
 
